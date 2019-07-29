@@ -1,0 +1,29 @@
+
+body {
+background-color: #d0e1b9;
+}
+
+.jumbotron {
+
+  padding-right: 0;
+  display: flex;
+  align-items: center;
+  background-image: url('construction4.png');
+  background-size: cover;
+  color: #ffffff;
+  height: 1000px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+
+}
+
+.jumbotron h2 {
+  font-family: 'Prata', serif;
+  font-size: 80px;
+  font-weight: 400;
+  margin: 0;
+  color: #cab9e1;
+}
+
+.jumbotron p {
+  font-family:
+}
